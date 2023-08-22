@@ -121,6 +121,7 @@ font-size: 3rem;
 letter-spacing: 2px;
 background: url(./img/onda.svg);
 color: #ffbb00;
+margin-inline: auto;
 
 }
 
